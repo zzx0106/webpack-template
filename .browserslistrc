@@ -1,0 +1,12 @@
+[production staging]
+> 0.2%
+not dead
+not op_mini all
+not ie < 9
+iOS >= 8
+Safari >= 8
+
+[development]
+last 1 chrome version
+last 1 firefox version
+last 1 safari version

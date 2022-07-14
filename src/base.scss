@@ -1,0 +1,8 @@
+$font-size: 15px;
+html {
+  font-size: $font-size;
+  #root {
+    transform: translate3d(1px, 2px, 3px);
+    display: flex;
+  }
+}
